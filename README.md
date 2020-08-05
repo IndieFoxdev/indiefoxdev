@@ -18,6 +18,7 @@
 [<img align="left" alt="indiefox | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
+<br />
 
 ### Things I use:
 
