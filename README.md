@@ -65,6 +65,6 @@
 [CSS]: https://wikipedia.org/wiki/Cascading_Style_Sheets/
 [JavaScript]: https://wikipedia.org/wiki/JavaScript/
 [CS]: https://wikipedia.org/wiki/C-Sharp/
-[CPP]: https://de.wikipedia.org/wiki/C%2B%2B
+[CPP]: https://en.wikipedia.org/wiki/C++
 [Python]: https://wikipedia.org/wiki/Python_(Programmiersprache)/
 [Java]: https://wikipedia.org/wiki/Java_(Programmiersprache)/
