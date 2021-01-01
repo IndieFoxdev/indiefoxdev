@@ -24,7 +24,7 @@
 
 #### OS
 [<img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][Windows]
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][Ubuntu]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][Linux]
 
 <br />
 <br />
@@ -55,7 +55,7 @@
 [twitter]: https://twitter.com/_IndieFox/
 
 [Windows]: https://www.microsoft.com/windows/
-[Ubuntu]: https://ubuntu.com/
+[Linux]: https://archlinux.org/
 
 [Unity]: https://unity.com/
 [VS]: https://visualstudio.microsoft.com/
