@@ -43,6 +43,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="CS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][CS]
+[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][CPP]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" />][Java]
 
@@ -64,5 +65,6 @@
 [CSS]: https://wikipedia.org/wiki/Cascading_Style_Sheets/
 [JavaScript]: https://wikipedia.org/wiki/JavaScript/
 [CS]: https://wikipedia.org/wiki/C-Sharp/
+[CPP]: https://de.wikipedia.org/wiki/C%2B%2B
 [Python]: https://wikipedia.org/wiki/Python_(Programmiersprache)/
 [Java]: https://wikipedia.org/wiki/Java_(Programmiersprache)/
