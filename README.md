@@ -61,10 +61,10 @@
 [VS]: https://visualstudio.microsoft.com/
 [VSCode]: https://code.visualstudio.com/
 
-[HTML5]: https://wikipedia.org/wiki/Hypertext_Markup_Language/
-[CSS]: https://wikipedia.org/wiki/Cascading_Style_Sheets/
-[JavaScript]: https://wikipedia.org/wiki/JavaScript/
-[CS]: https://wikipedia.org/wiki/C-Sharp/
+[HTML5]: https://en.wikipedia.org/wiki/HTML
+[CSS]: https://en.wikipedia.org/wiki/CSS
+[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+[CS]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [CPP]: https://en.wikipedia.org/wiki/C++
-[Python]: https://wikipedia.org/wiki/Python_(Programmiersprache)/
-[Java]: https://wikipedia.org/wiki/Java_(Programmiersprache)/
+[Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
