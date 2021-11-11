@@ -44,8 +44,8 @@
 <br />
 <br />
 
-[twitch]: twitch.tv/lndiefox/
-[youtube]: bit.ly/2JqelCu/
+[twitch]: https://twitch.tv/lndiefox/
+[youtube]: https://bit.ly/2JqelCu/
 [twitter]: https://twitter.com/_IndieFox/
 
 [Windows]: https://www.microsoft.com/windows/
