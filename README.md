@@ -1,16 +1,16 @@
-### Hi there, I'm IndieFox 🦊
+### Hi there, I'm O³
 
-## I'm a Game Developer / Frontend Developer / Backend Developer
-- 💼 I’m currently working on my own VR Metaverse!
+## I'm a Game Developer / Full Stack Developer
+- 💼 I’m currently working on VR stuff!
 - 🏫 I’m trying to get better at coding!
 <br />
 <br />
 
 ### Find me:
 
-<!-- [<img align="left" alt="indiefox | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="indiefox | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="indiefox | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+<!-- [<img align="left" alt="O³ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="O³ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="O³ | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 <br />
@@ -44,9 +44,9 @@
 <br />
 <br />
 
-[twitch]: https://twitch.tv/lndiefox/
+[twitch]: https://twitch.tv/o3dev
 <!-- [youtube]: "link" -->
-[twitter]: https://twitter.com/_IndieFox/
+[twitter]: https://twitter.com/o3_dev
 
 [Windows]: https://www.microsoft.com/windows/
 [Linux]: https://archlinux.org/
